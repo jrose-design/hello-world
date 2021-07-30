@@ -1,2 +1,2 @@
 # hello-world
-Code Foundry portfolio siteta 
+Code Foundry portfolio site
